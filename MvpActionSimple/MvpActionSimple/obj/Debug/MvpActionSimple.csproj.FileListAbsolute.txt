@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MvpActionSimple\MvpActionSimple\bin\Debug\MvpActionSimple.exe.config
+C:\Users\User\source\repos\MvpActionSimple\MvpActionSimple\bin\Debug\MvpActionSimple.exe
+C:\Users\User\source\repos\MvpActionSimple\MvpActionSimple\bin\Debug\MvpActionSimple.pdb
+C:\Users\User\source\repos\MvpActionSimple\MvpActionSimple\obj\Debug\MvpActionSimple.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MvpActionSimple\MvpActionSimple\obj\Debug\MvpActionSimple.Form1.resources
+C:\Users\User\source\repos\MvpActionSimple\MvpActionSimple\obj\Debug\MvpActionSimple.Properties.Resources.resources
+C:\Users\User\source\repos\MvpActionSimple\MvpActionSimple\obj\Debug\MvpActionSimple.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MvpActionSimple\MvpActionSimple\obj\Debug\MvpActionSimple.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MvpActionSimple\MvpActionSimple\obj\Debug\MvpActionSimple.exe
+C:\Users\User\source\repos\MvpActionSimple\MvpActionSimple\obj\Debug\MvpActionSimple.pdb
